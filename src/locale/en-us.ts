@@ -1,0 +1,33 @@
+export const enMessage = {
+  title: 'Tour of Heroes',
+  login: 'Login',
+  dashboard: 'Dashboard',
+  heroes: 'Heroes',
+  gantt: 'Gantt Chart',
+  about: 'About',
+  username: 'Username',
+  password: 'Password',
+  usernameError: 'Please input your Username',
+  passwordError: 'Please input your Password',
+  userInvalidated: 'Username or password is incorrect',
+  topHeroes: 'Top Heroes',
+  heroSearch: 'Hero Search',
+  myHeroes: 'My Heroes',
+  heroName: 'Hero name',
+  addHero: 'Add hero',
+  no: 'No',
+  name: 'Name',
+  createdDate: 'Created Date',
+  delete: 'Delete',
+  details: 'Details',
+  id: 'ID',
+  back: 'Go back',
+  save: 'Save',
+  error: {
+    unauthorized: 'You are not authorized',
+    forbidden: 'Forbidden',
+    notFound: 'Not found',
+    serverError: 'Internal Server Error',
+    badCredentials: 'Bad Credentials'
+  }
+}
